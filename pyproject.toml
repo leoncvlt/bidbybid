@@ -6,13 +6,13 @@ authors = ["Leonardo Cavaletti <impeto.blu@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-colorama = "^0.4.4"
 selenium = "^3.141.0"
 price-parser = "^0.3.4"
 chromedriver-autoinstaller = "^0.2.2"
 python-dateutil = "^2.8.1"
 pygal = "^2.4.0"
 lxml = "^4.6.2"
+rich = "^9.10.0"
 
 [tool.poetry.dev-dependencies]
 taskipy = "^1.6.0"
