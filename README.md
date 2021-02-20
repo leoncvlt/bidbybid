@@ -40,9 +40,9 @@ python bidbybid.py "thinkpad x220, thinkpad x230, thinkpad x240, thinkpad x250, 
 Get the prices for different models of Thinkpad laptops, excluding any auction that strays more than 50% from the average price (to filter out likely auctions for parts or broken items), and display the results in a chart.
 
 ## To do
-[ ] Add more ebay locales
-[ ] Implement chart functionality with `matplotlib`
-    [ ] Add polynomial fit to display trendlines for the prices
+- [ ] Add more ebay locales
+- [ ] Implement chart functionality with `matplotlib`
+  - [ ] Add polynomial fit to display trendlines for the prices
 
 ## Support [![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-lightgrey?style=flat&logo=buy-me-a-coffee&color=FF813F&logoColor=white "Buy me a coffee")](https://www.buymeacoffee.com/leoncvlt)
 If this tool has proven useful to you, consider [buying me a coffee](https://www.buymeacoffee.com/leoncvlt) to support development of this and [many other projects](https://github.com/leoncvlt?tab=repositories).
